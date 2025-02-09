@@ -62,9 +62,9 @@ Withdraw earnings via crypto, Easypaisa, or JazzCash (minimum $20).
 
 🌐 Connect with Homeworkify
 
-🔗 Website: <a href=https://homeworkify.us.com/>Homeworkify/>
+🔗 Website: <a href=https://homeworkify.us.com/>Homeworkify</a>
 
-🔗 Homeworkify App: <a href=https://play.google.com/store/apps/details?id=com.homeworkify&pcampaignid=web_share&pli=1>Homeworkify App />
+🔗 Homeworkify App: <a href=https://play.google.com/store/apps/details?id=com.homeworkify&pcampaignid=web_share&pli=1>Homeworkify App </a>
 
 
 🔗 Contribute & Support
