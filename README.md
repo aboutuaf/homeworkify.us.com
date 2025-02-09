@@ -1,4 +1,4 @@
-# homeworkify.us.com
+# <a href="https://homeworkify.us.com/">Homeworkify</a>
 
 homeworkify is an ultimate homework help platform
 Homeworkify is an innovative online platform designed to help students find answers to their academic questions while allowing tutors and educators to earn money by providing expert solutions. The platform combines AI-powered assistance with human expertise to deliver high-quality academic support across various subjects.
@@ -62,9 +62,11 @@ Withdraw earnings via crypto, Easypaisa, or JazzCash (minimum $20).
 
 🌐 Connect with Homeworkify
 
-🔗 Website: <a href=https://homeworkify.us.com/>Homeworkify</a>
+🔗 Website: <a href="https://homeworkify.us.com/">Homeworkify</a>
 
-🔗 Homeworkify App: <a href=https://play.google.com/store/apps/details?id=com.homeworkify&pcampaignid=web_share&pli=1><Homeworkify App </a>
+
+🔗 Homeworkify App: <a href="https://play.google.com/store/apps/details?id=com.homeworkify">Homeworkify App</a>
+
 
 
 🔗 Contribute & Support
